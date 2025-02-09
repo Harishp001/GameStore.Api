@@ -27,9 +27,19 @@ POST      	https://localhost:5001/games              	Add a new game
 PUT	        https://localhost:5001/games/{id}	          Update an existing game
 DELETE    	https://localhost:5001/games/{id}	          Delete a game by ID
 ```
-📸 Screenshots
-Here are some screenshots of the project in action:
-https://github.com/Harishp001/GameStore.Api/blob/baea9946a33c89cf450abce95699fd8c2c5eaa28/Screenshots/Screenshot%202025-02-09%20205315.png
-https://github.com/Harishp001/GameStore.Api/blob/baea9946a33c89cf450abce95699fd8c2c5eaa28/Screenshots/Screenshot%202025-02-09%20205248.png
-https://github.com/Harishp001/GameStore.Api/blob/baea9946a33c89cf450abce95699fd8c2c5eaa28/Screenshots/Screenshot%202025-02-09%20205232.png
-https://github.com/Harishp001/GameStore.Api/blob/baea9946a33c89cf450abce95699fd8c2c5eaa28/Screenshots/Screenshot%202025-02-09%20205210.png
+## 📸 Screenshots  
+
+Here are some screenshots of the project in action:  
+
+![Screenshot 1](https://github.com/Harishp001/GameStore.Api/blob/baea9946a33c89cf450abce95699fd8c2c5eaa28/Screenshots/Screenshot%202025-02-09%20205315.png)  
+*Game List*
+
+![Screenshot 2](https://github.com/Harishp001/GameStore.Api/blob/baea9946a33c89cf450abce95699fd8c2c5eaa28/Screenshots/Screenshot%202025-02-09%20205248.png)  
+*Game list using Id*
+
+![Screenshot 3](https://github.com/Harishp001/GameStore.Api/blob/baea9946a33c89cf450abce95699fd8c2c5eaa28/Screenshots/Screenshot%202025-02-09%20205232.png)  
+*create new Game using post*
+
+![Screenshot 4](https://github.com/Harishp001/GameStore.Api/blob/baea9946a33c89cf450abce95699fd8c2c5eaa28/Screenshots/Screenshot%202025-02-09%20205210.png)  
+*Invalid post configuration.*
+
